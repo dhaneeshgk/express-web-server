@@ -8,7 +8,7 @@
     "strat": "node sever.js"
   },"engines":{
     "node":"6.10.2"
-  },,
+  },
   "author": "",
   "license": "ISC",
   "dependencies": {
